@@ -1,4 +1,4 @@
-<div align="center" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
+<div align="left" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
   <img src="docs/SleepNerdIcon.png" width="100"/>
   <div>
     <h2>OSA Phenotype Engine</h2>
